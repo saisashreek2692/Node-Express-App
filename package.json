@@ -1,0 +1,25 @@
+{
+  "name": "coffee-manager",
+  "version": "1.0.0",
+  "description": "To Serve Coffee when ever you need",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "Express",
+    "Coffee",
+    "Manager",
+    "Coffee-Manager"
+  ],
+  "author": "Sai Sashreek D",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
